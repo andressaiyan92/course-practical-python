@@ -1,0 +1,2 @@
+import sololearn
+sololearn.function()
